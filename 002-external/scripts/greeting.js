@@ -1,0 +1,1 @@
+alert("Greeting From Abroad!")
