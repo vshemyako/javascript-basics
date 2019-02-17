@@ -21,3 +21,7 @@ alert(universeSize + " is of type " + typeUndefined);
 var item = {};
 var typeObject = typeof item;
 alert(item + " is of type " + typeObject);
+
+var symbol = Symbol();
+var typeSymbol = typeof symbol;
+alert(symbol.toString() + " is of type " + typeSymbol);
