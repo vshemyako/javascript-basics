@@ -24,6 +24,3 @@ var varHoisted = "Hoisted";
 
 // console.log(letHoisted); // ReferenceError: letHoisted is not defined
 let letHoisted = "Hoisted";
-
-// TODO: add differences related to closure
-// TODO: add Anki card
