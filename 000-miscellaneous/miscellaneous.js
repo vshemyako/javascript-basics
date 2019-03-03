@@ -1,7 +1,7 @@
 "use strict";
 
 function assign() {
-    number = 10;
+    numbers = 10;
 }
 
 assign();

@@ -2,7 +2,7 @@ var object = {
     number: 1
 };
 
-var description = Object.getOwnPropertyDescriptor(object, "number");
+var description = Object.getOwnPropertyDescriptor(object, "numbers");
 console.log(description);
 
 /*

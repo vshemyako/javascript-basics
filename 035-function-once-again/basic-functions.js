@@ -1,4 +1,4 @@
-// Calculate square of a number
+// Calculate square of a numbers
 const square = function (number) {
     return number * number;
 };
