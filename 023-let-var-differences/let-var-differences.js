@@ -24,3 +24,7 @@ var varHoisted = "Hoisted";
 
 // console.log(letHoisted); // ReferenceError: letHoisted is not defined
 let letHoisted = "Hoisted";
+
+// 4. Within the 'for' loop let variable is recreated per each iteration
+for (let index = 0; index < 5; index++) {
+}
